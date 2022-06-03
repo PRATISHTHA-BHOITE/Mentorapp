@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "425869592961",
+    "firebase_url": "https://mentorfinal2.firebaseio.com",
+    "project_id": "mentorfinal2",
+    "storage_bucket": "mentorfinal2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425869592961:android:8ca6cd8e06684b8a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.www.mentorfinal2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425869592961-lot3c8fok6l9mn1hesc8mf2fcb13le26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.www.mentorfinal2",
+            "certificate_hash": "1adc9bf89cc6e58a93c91aacd274edf1a3485f2c"
+          }
+        },
+        {
+          "client_id": "425869592961-6p4kgaehvvvha2m566go2u4hga2ehto0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.www.mentorfinal2",
+            "certificate_hash": "c7a22fe24ab80418320a9755466fd7943ecb45f1"
+          }
+        },
+        {
+          "client_id": "425869592961-bf9foe19f7j8p1lj839pav0qj8tbc115.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.www.mentorfinal2",
+            "certificate_hash": "501294def8c62141efcfda50b80bacf61742686b"
+          }
+        },
+        {
+          "client_id": "425869592961-3nesi8i672867j9eipo6k7hb22uvi657.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWgfiRcbYty3bJOmSm-zhTI0BcXgmh4wg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425869592961-3nesi8i672867j9eipo6k7hb22uvi657.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
